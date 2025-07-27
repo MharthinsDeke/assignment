@@ -1,20 +1,20 @@
 [
   {
-    "id": "9176b7af-6a83-487a-b458-d8ce6092a3b7",
-    "name": "cups",
+    "id": "9123af5b-6b7af-487a-a3b7-d8ce6092b458",
+    "name": "Boots",
     "instock": "true",
     "unit": 200,
-    "unitprice": 5000,
+    "unitprice": 4000,
     "quantity": 20,
-    "totalprice": 100000
+    "totalprice": 80000
   },
   {
-    "id": "e15f2317-7593-42f3-aa6e-93c9bba8a8f1",
-    "name": "clothes",
+    "id": "93c92317aa6e-7593-42f3-2317-bba8a8f1",
+    "name": "Jersies",
     "instock": true,
     "unit": 200,
-    "unitprice": 5000,
-    "quantity": 20,
-    "totalprice": 100000
+    "unitprice": 2000,
+    "quantity": 40,
+    "totalprice": 80000
   }
 ]
